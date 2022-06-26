@@ -1,5 +1,6 @@
 // Includes...
 #include "SR04.h"
+#include "LiquidCrystal.h"
 
 // Pin locations on the arduino board & sensor.
 #define TRIG_PIN 2

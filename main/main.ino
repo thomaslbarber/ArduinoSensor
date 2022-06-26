@@ -1,3 +1,5 @@
+#include "SR04.h"
+
 void setup() {
   // put your setup code here, to run once:
 
